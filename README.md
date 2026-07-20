@@ -1,19 +1,17 @@
-# **System Prompts and Models of AI Tools**  
----
 <p align="center">
-  <sub>Special thanks to</sub>  
-</p> 
+  <sub>Thanks to</sub>  
+</p>
 
 <p align="center">
-  <a href="https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">
-    <img src="assets/Latitude_logo.png" alt="Latitude Logo" width="700"/>
+  <a href="https://github.com/latitude-dev/latitude-llm">
+    <img src="assets/latitude-dark.png" alt="Latitude Logo" width="700"/>
   </a>
 </p>
 
 <div align="center" markdown="1">
 
-### <a href="https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">The tools you need for building reliable Agents and Prompts</a>  
-<a href="https://latitude.so/developers?utm_source=github&utm_medium=readme&utm_campaign=prompt_repo_sponsorship" target="_blank">Open Source AI Engineering Platform</a><br>
+### [Make your AI agents self-healing](https://github.com/latitude-dev/latitude-llm)  
+[Open Source.](https://github.com/latitude-dev/latitude-llm)
 
 </div>
 
@@ -26,15 +24,22 @@
 
 <a href="https://trendshift.io/repositories/14084" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14084" alt="x1xhlol%2Fsystem-prompts-and-models-of-ai-tools | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-📜 Over **30,000+ lines** of insights into their structure and functionality.  
-
 
 [![Build Status](https://app.cloudback.it/badge/x1xhlol/system-prompts-and-models-of-ai-tools)](https://cloudback.it)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
 ---
 
-## ❤️ Support the Project
+## Security Notice for AI Startups
+
+> **Warning:** If you're an AI startup, make sure your data is secure. Exposed prompts or AI models can easily become a target for hackers.
+
+> **Important:** Interested in securing your AI systems?  
+> Check out **[ZeroLeaks](https://zeroleaks.ai/)**, a service designed to help startups **identify and secure** prompt injection and system prompt extraction risks.
+
+---
+
+## Support the Project
 
 If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project.
 
@@ -47,7 +52,7 @@ You can show your support via:
 - **Patreon:** https://patreon.com/lucknite
 - **Ko-fi:** https://ko-fi.com/lucknite
 
-🙏 Thank you for your support!
+Thank you for your support!
 
 ---
 
@@ -55,42 +60,22 @@ You can show your support via:
 
 Sponsor the most comprehensive repository of AI system prompts and reach thousands of developers.
 
-[Get Started](mailto:lucknitelol@proton.me)
+[Get Started](mailto:lucasvalbuena@pm.me)
 
 ---
 
-## 🛠 Roadmap & Feedback
+## Roadmap & Feedback
 
 > Open an issue.
 
-> **Latest Update:** 29/11/2025
+> **Latest Update:** 12/07/2026
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
-- **X:** [NotLucknite](https://x.com/NotLucknite)
+- **X:** [Lucknite](https://x.com/Lucknite)
 - **Discord**: `x1xhlol`
+- **Email**: `lucasvalbuena@pm.me
 
----
-
-## 🛡️ Security Notice for AI Startups
-
-> ⚠️ **Warning:** If you're an AI startup, make sure your data is secure. Exposed prompts or AI models can easily become a target for hackers.
-
-> 🔐 **Important:** Interested in securing your AI systems?  
-> Check out **[ZeroLeaks](https://zeroleaks.io/)**, a service designed to help startups **identify and secure** leaks in system instructions, internal tools, and model configurations. **Get a free AI security audit** to ensure your AI is protected from vulnerabilities.
-
----
-
-## 📊 Star History
-
-<a href="https://www.star-history.com/#x1xhlol/system-prompts-and-models-of-ai-tools&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
-  </picture>
-</a>
-
-⭐ **Drop a star if you find this useful!**
+**Drop a star if you find this useful!**
